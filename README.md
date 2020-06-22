@@ -1,2 +1,2 @@
 # SimIR
-SimIR: R pipeline to generate RNA-seq data with known IR-levels
+SimIR: R scripts to generate in-sillico RNA-seq data with known IR-levels
