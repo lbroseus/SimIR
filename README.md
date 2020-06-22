@@ -1,2 +1,3 @@
 # SimIR
-SimIR: R scripts to generate in-sillico RNA-seq data with known IR-levels
+SimIR: R scripts to simulate RNA-seq experiments with known IR-levels.
+Used to evaluate IR metrics.
